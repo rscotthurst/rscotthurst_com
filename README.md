@@ -1,2 +1,4 @@
 # rscotthurst_com
-Personal Wordpress Website
+My Personal Wordpress Website
+
+To run: `docker compose up -d` from project directory
